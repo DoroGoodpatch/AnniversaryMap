@@ -68,7 +68,7 @@
                 {
                  "name":"audioVolume",
                  "type":"string",
-                 "value":"2"
+                 "value":"0.5"
                 }, 
                 {
                  "name":"playAudio",
@@ -96,7 +96,7 @@
                 {
                  "name":"audioVolume",
                  "type":"string",
-                 "value":"2"
+                 "value":"0.5"
                 }, 
                 {
                  "name":"playAudio",
