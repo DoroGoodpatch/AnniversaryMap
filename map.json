@@ -2008,6 +2008,15 @@
                         }]
                 }, 
                 {
+                 "id":165,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":175,
                  "properties":[
                         {
